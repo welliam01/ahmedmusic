@@ -1,6 +1,0 @@
-token=NTM1NDA4NzY2MzUxNTczMDAy.DyHt_g.AVge5JNjvtWAFudPxN1RI8Dbz40
-owner=525749212198207508
-prefix=Ahplay
-game=Type Ahhelp
-stayinchannel=true
-songinstatus=true
